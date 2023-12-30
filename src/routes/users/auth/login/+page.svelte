@@ -194,7 +194,7 @@
                 <div class="get-scammed-banner">
                     <div class="caption">Don't get scammed!</div>
                     <div class="body">
-                        <div>Is the address up top:<br />megapersonals.eu</div>
+                        <div>Is the address up top:<br />megapersonals.com</div>
                         <div>?</div>
                     </div>
                 </div>
